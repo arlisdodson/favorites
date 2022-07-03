@@ -45,6 +45,8 @@
 * 1971
     * [The French Connection](https://www.imdb.com/title/tt0067116/?ref_=nv_sr_srsg_0)
     * [The Last Picture Show](https://www.imdb.com/title/tt0067328/?ref_=nv_sr_srsg_0)
+* 1973
+    * [American Graffiti](https://www.imdb.com/title/tt0069704/?ref_=nv_sr_srsg_0)
 
 # The 1980's #
 * 1980
@@ -87,6 +89,7 @@
     * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
+    * [National Treasure](https://www.imdb.com/title/tt0368891/?ref_=fn_al_tt_1)
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2007
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
@@ -101,7 +104,9 @@
     * [True Grit](https://www.imdb.com/title/tt1403865/?ref_=nv_sr_srsg_0)
 * 2011
     * [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nv_sr_srsg_0)
+    * [Tinker Tailor Soldier Spy](https://www.imdb.com/title/tt1340800/?ref_=nv_sr_srsg_0)
 * 2012
+    * [John Carter](https://www.imdb.com/title/tt0401729/?ref_=fn_al_tt_1)
     * [Prometheus](https://www.imdb.com/title/tt1446714/?ref_=nv_sr_srsg_0)
 * 2013
     * [Olympus Has Fallen](https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0)
