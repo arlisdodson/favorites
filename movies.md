@@ -14,15 +14,24 @@
     * [Detective Story](https://www.imdb.com/title/tt0043465/?ref_=fn_al_tt_1)
 * 1953
     * [Shane](https://www.imdb.com/title/tt0046303/?ref_=nv_sr_srsg_6)
+* 1954
+    * [The Egyptian](https://www.imdb.com/title/tt0046949/?ref_=nv_sr_srsg_0)
 * 1955
     * [The Man from Laremie](https://www.imdb.com/title/tt0048342/?ref_=nv_sr_srsg_0)
 * 1956
     * [Forbidden Planet](https://www.imdb.com/title/tt0049223/?ref_=nv_sr_srsg_0)
     * [The Searchers](https://www.imdb.com/title/tt0049730/?ref_=nv_sr_srsg_0)
 * 1957
+    * [The Bridge on the River Kwai](https://www.imdb.com/title/tt0050212/?ref_=nv_sr_srsg_0)
     * [The Sun Also Rises](https://www.imdb.com/title/tt0051028/?ref_=fn_al_tt_1)
 
 # The 1960's #
+* 1963
+    * [Hud](https://www.imdb.com/title/tt0057163/?ref_=fn_al_tt_1)
+* 1964
+    * [Zulu](https://www.imdb.com/title/tt0058777/?ref_=nv_sr_srsg_0)
+* 1965
+    * [The Sand Pebbles](https://www.imdb.com/title/tt0060934/?ref_=nv_sr_srsg_0)
 * 1968
     * [Bullitt](https://www.imdb.com/title/tt0062765/?ref_=nv_sr_srsg_0)
 * 1969
@@ -30,9 +39,14 @@
 
 # The 1970's #
 * 1971
+    * [The French Connection](https://www.imdb.com/title/tt0067116/?ref_=nv_sr_srsg_0)
     * [The Last Picture Show](https://www.imdb.com/title/tt0067328/?ref_=nv_sr_srsg_0)
 
 # The 1980's #
+* 1980
+    * [Breaker Morant](https://www.imdb.com/title/tt0080310/?ref_=tt_urv)
+* 1981
+    * [Gallipoli](https://www.imdb.com/title/tt0082432/?ref_=nv_sr_srsg_0)
 * 1982
     * [Cannery Row](https://www.imdb.com/title/tt0083717/?ref_=nv_sr_srsg_0)
 * 1983
@@ -65,12 +79,14 @@
 * 2001
     * [The Mummy Returns](https://www.imdb.com/title/tt0209163/?ref_=nv_sr_srsg_0)
 * 2003
+    * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2008
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
 * 2009
+    * [Inglourious Basterds](https://www.imdb.com/title/tt0361748/)
     * [Terminator Salvation](https://www.imdb.com/title/tt0438488/?ref_=tt_sims_tt_i_1)
 
 # The 2010's #
