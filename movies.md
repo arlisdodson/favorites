@@ -19,6 +19,13 @@
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
         * not as good as the first two films
         * that said, after watching this film several times, I do enjoy the film ... mostly
+* 2010
+    * [True Grit](https://www.imdb.com/title/tt1403865/?ref_=nv_sr_srsg_0)
+        * Jeff Bridges should have received an Oscar
+        * I still don't recognize Matt Daemon even though I know that is him 
+        * great casting
+        * the Coen Brothers; really
+        * the author --- Charles McColl Portis --- earned his journalism degree at UA (1958)
 * 2014 #
     * [Intersellar](https://www.imdb.com/title/tt0816692/)
         * fantastic score
