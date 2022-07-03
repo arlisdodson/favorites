@@ -39,6 +39,7 @@
     * [Rumble Fish](https://www.imdb.com/title/tt0086216/?ref_=nv_sr_srsg_0)
 * 1984
     * [The Adventures of Buckaroo Banzai Across the 8th Dimension](https://www.imdb.com/title/tt0086856/?ref_=nv_sr_srsg_0)
+    * [The Terminator](https://www.imdb.com/title/tt0088247/?ref_=nv_sr_srsg_0)
 * 1987
     * [Throw Momma from the Train](https://www.imdb.com/title/tt0094142/?ref_=nv_sr_srsg_0)
 * 1988
@@ -49,6 +50,8 @@
 # The 1990's #
 * 1990
     * [Tremors](https://www.imdb.com/title/tt2582782/?ref_=nv_sr_srsg_0)
+* 1991
+    * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
 * 1996
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 1998
@@ -61,10 +64,14 @@
     * [Snatch](https://www.imdb.com/title/tt0208092/?ref_=nv_sr_srsg_0)
 * 2001
     * [The Mummy Returns](https://www.imdb.com/title/tt0209163/?ref_=nv_sr_srsg_0)
+* 2003
+    * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2008
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
+* 2009
+    * [Terminator Salvation](https://www.imdb.com/title/tt0438488/?ref_=tt_sims_tt_i_1)
 
 # The 2010's #
 * 2010
