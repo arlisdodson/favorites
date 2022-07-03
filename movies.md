@@ -5,6 +5,8 @@
     * [The Graphes of Wratch](https://www.imdb.com/title/tt0032551/?ref_=fn_al_tt_1)
 * 1941
     * [The Maltese Falcon](https://www.imdb.com/title/tt0033870/?ref_=nv_sr_srsg_0)
+* 1942
+    * [The Ox-Bow Incident](https://www.imdb.com/title/tt0036244/?ref_=nv_sr_srsg_0)
 * 1948
     * [Mr. Blandings Builds His Dream House](https://www.imdb.com/title/tt0040613/?ref_=fn_al_tt_1)
     * [The Treasure of the Sierra Madre](https://www.imdb.com/title/tt0040897/?ref_=nv_sr_srsg_0)
@@ -32,6 +34,8 @@
     * [Zulu](https://www.imdb.com/title/tt0058777/?ref_=nv_sr_srsg_0)
 * 1965
     * [The Sand Pebbles](https://www.imdb.com/title/tt0060934/?ref_=nv_sr_srsg_0)
+* 1967
+    * [In the Heat of the Night](https://www.imdb.com/title/tt0061811/?ref_=fn_al_tt_2)
 * 1968
     * [Bullitt](https://www.imdb.com/title/tt0062765/?ref_=nv_sr_srsg_0)
 * 1969
@@ -78,11 +82,14 @@
     * [Snatch](https://www.imdb.com/title/tt0208092/?ref_=nv_sr_srsg_0)
 * 2001
     * [The Mummy Returns](https://www.imdb.com/title/tt0209163/?ref_=nv_sr_srsg_0)
+    * [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/?ref_=nv_sr_srsg_3)
 * 2003
     * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
+* 2007
+    * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
 * 2008
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
 * 2009
@@ -108,6 +115,7 @@
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
 * 2018
     * [At Eternity's Gate](https://www.imdb.com/title/tt6938828/?ref_=fn_al_tt_1)
+    * [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/?ref_=nv_sr_srsg_0)
 * 2019
     * [Ad Astra](https://www.imdb.com/title/tt2935510/?ref_=nv_sr_srsg_6)
     * [Angel Has Fallen](https://www.imdb.com/title/tt6189022/?ref_=tt_sims_tt_i_2)
