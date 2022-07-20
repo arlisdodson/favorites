@@ -132,6 +132,7 @@
 * 2017
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
 * 2018
+    * [A Quiet Place](https://www.imdb.com/title/tt6644200/?ref_=nm_flmg_act_9)
     * [At Eternity's Gate](https://www.imdb.com/title/tt6938828/?ref_=fn_al_tt_1)
     * [Sometimes Always Never](https://www.imdb.com/title/tt5068162/?ref_=nm_flmg_act_22)
     * [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/?ref_=nv_sr_srsg_0)
@@ -142,4 +143,5 @@
 
 # The 2020's #
 * 2021
+    * [A Quiet Place Part II](https://www.imdb.com/title/tt8332922/?ref_=nm_flmg_act_6)
     * [The Colony](https://www.imdb.com/title/tt6506264/?ref_=nv_sr_srsg_7)
