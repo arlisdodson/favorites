@@ -69,6 +69,7 @@
 
 # The 1990's #
 * 1990
+    * (I Love You to Death)[https://www.imdb.com/title/tt0099819/]
     * [Tremors](https://www.imdb.com/title/tt2582782/?ref_=nv_sr_srsg_0)
 * 1991
     * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
@@ -90,6 +91,7 @@
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
     * [National Treasure](https://www.imdb.com/title/tt0368891/?ref_=fn_al_tt_1)
+    * [Shaun of the Dead](https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_1)
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2007
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
@@ -109,13 +111,17 @@
 * 2012
     * [John Carter](https://www.imdb.com/title/tt0401729/?ref_=fn_al_tt_1)
     * [Prometheus](https://www.imdb.com/title/tt1446714/?ref_=nv_sr_srsg_0)
+    * [Total Recall](https://www.imdb.com/title/tt1386703/?ref_=nm_flmg_act_48)
 * 2013
     * [Mystery Road](https://www.imdb.com/title/tt2236054/?ref_=fn_al_tt_2)
     * [Olympus Has Fallen](https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0)
 * 2014
+    * [Hector and the Search for Happiness](https://www.imdb.com/title/tt1626146/?ref_=nm_flmg_act_39)
     * [Intersellar](https://www.imdb.com/title/tt0816692/)
+    * [Kill Me Three Times](https://www.imdb.com/title/tt0099819/)
     * [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 2015
+    * [Man Up](https://www.imdb.com/title/tt3064298/?ref_=nm_flmg_act_34)
     * [The Big Short](https://www.imdb.com/title/tt1596363/?ref_=fn_al_tt_1)
 * 2016
     * [Hell or High Water](https://www.imdb.com/title/tt2582782/?ref_=nv_sr_srsg_0)
@@ -124,6 +130,7 @@
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
 * 2018
     * [At Eternity's Gate](https://www.imdb.com/title/tt6938828/?ref_=fn_al_tt_1)
+    * [Sometimes Always Never](https://www.imdb.com/title/tt5068162/?ref_=nm_flmg_act_22)
     * [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/?ref_=nv_sr_srsg_0)
 * 2019
     * [Ad Astra](https://www.imdb.com/title/tt2935510/?ref_=nv_sr_srsg_6)
