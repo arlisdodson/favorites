@@ -22,6 +22,7 @@
     * [The Man from Laremie](https://www.imdb.com/title/tt0048342/?ref_=nv_sr_srsg_0)
 * 1956
     * [Forbidden Planet](https://www.imdb.com/title/tt0049223/?ref_=nv_sr_srsg_0)
+    * [The Man Who Knew Too Much](https://www.imdb.com/title/tt0049470/)
     * [The Searchers](https://www.imdb.com/title/tt0049730/?ref_=nv_sr_srsg_0)
 * 1957
     * [The Bridge on the River Kwai](https://www.imdb.com/title/tt0050212/?ref_=nv_sr_srsg_0)
