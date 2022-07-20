@@ -9,6 +9,7 @@
     * [The Ox-Bow Incident](https://www.imdb.com/title/tt0036244/?ref_=nv_sr_srsg_0)
 * 1948
     * [Mr. Blandings Builds His Dream House](https://www.imdb.com/title/tt0040613/?ref_=fn_al_tt_1)
+    * [Rope](https://www.imdb.com/title/tt0040746/?ref_=nm_flmg_act_67)
     * [The Treasure of the Sierra Madre](https://www.imdb.com/title/tt0040897/?ref_=nv_sr_srsg_0)
 
 # The 1950's #
@@ -17,6 +18,7 @@
 * 1953
     * [Shane](https://www.imdb.com/title/tt0046303/?ref_=nv_sr_srsg_6)
 * 1954
+    * [Rear Window](https://www.imdb.com/title/tt0049470/)
     * [The Egyptian](https://www.imdb.com/title/tt0046949/?ref_=nv_sr_srsg_0)
 * 1955
     * [The Man from Laremie](https://www.imdb.com/title/tt0048342/?ref_=nv_sr_srsg_0)
@@ -35,6 +37,8 @@
     * [Zulu](https://www.imdb.com/title/tt0058777/?ref_=nv_sr_srsg_0)
 * 1965
     * [The Sand Pebbles](https://www.imdb.com/title/tt0060934/?ref_=nv_sr_srsg_0)
+* 1966
+    * [A Man for All Seasons](https://www.imdb.com/title/tt0060665/?ref_=nm_knf_i1)
 * 1967
     * [In the Heat of the Night](https://www.imdb.com/title/tt0061811/?ref_=fn_al_tt_2)
 * 1968
@@ -57,6 +61,7 @@
 * 1982
     * [Cannery Row](https://www.imdb.com/title/tt0083717/?ref_=nv_sr_srsg_0)
 * 1983
+    * [Local Hero](https://www.imdb.com/title/tt0085859/?ref_=nm_flmg_act_16)
     * [Rumble Fish](https://www.imdb.com/title/tt0086216/?ref_=nv_sr_srsg_0)
 * 1984
     * [The Adventures of Buckaroo Banzai Across the 8th Dimension](https://www.imdb.com/title/tt0086856/?ref_=nv_sr_srsg_0)
