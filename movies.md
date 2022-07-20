@@ -116,6 +116,9 @@
     * [Mystery Road](https://www.imdb.com/title/tt2236054/?ref_=fn_al_tt_2)
     * [Olympus Has Fallen](https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0)
 * 2014
+    * [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/)
+        * Cage: "... you're an American."
+        * Master Sergeant Farell: "No sir!  I'm from Kentucky!"
     * [Hector and the Search for Happiness](https://www.imdb.com/title/tt1626146/?ref_=nm_flmg_act_39)
     * [Intersellar](https://www.imdb.com/title/tt0816692/)
     * [Kill Me Three Times](https://www.imdb.com/title/tt0099819/)
