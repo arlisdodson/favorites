@@ -69,7 +69,7 @@
 
 # The 1990's #
 * 1990
-    * (I Love You to Death)[https://www.imdb.com/title/tt0099819/]
+    * [I Love You to Death](https://www.imdb.com/title/tt0099819/)
     * [Tremors](https://www.imdb.com/title/tt2582782/?ref_=nv_sr_srsg_0)
 * 1991
     * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
