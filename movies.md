@@ -2,7 +2,7 @@
 
 # The 1940's #
 * 1940
-    * [The Graphes of Wratch](https://www.imdb.com/title/tt0032551/?ref_=fn_al_tt_1)
+    * [The Grapes of Wrath](https://www.imdb.com/title/tt0032551/?ref_=fn_al_tt_1)
 * 1941
     * [The Maltese Falcon](https://www.imdb.com/title/tt0033870/?ref_=nv_sr_srsg_0)
 * 1942
