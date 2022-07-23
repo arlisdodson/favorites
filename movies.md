@@ -122,7 +122,6 @@
 * 2011
     * [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nv_sr_srsg_0)
     * [Moneyball](https://www.imdb.com/title/tt1210166/?ref_=nm_knf_i3)
-    * [Moneyball](https://www.imdb.com/title/tt1210166/?ref_=nv_sr_srsg_0)
     * [Tinker Tailor Soldier Spy](https://www.imdb.com/title/tt1340800/?ref_=nv_sr_srsg_0)
 * 2012
     * [John Carter](https://www.imdb.com/title/tt0401729/?ref_=fn_al_tt_1)
