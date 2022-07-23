@@ -59,6 +59,7 @@
     * [Breaker Morant](https://www.imdb.com/title/tt0080310/?ref_=tt_urv)
 * 1981
     * [Gallipoli](https://www.imdb.com/title/tt0082432/?ref_=nv_sr_srsg_0)
+    * [Indiana Jones and the Raiders of the Lost Ark](https://www.imdb.com/title/tt0082971/?ref_=fn_al_tt_2)
     * [The Boat](https://www.imdb.com/title/tt0082096/?ref_=fn_al_tt_2)
 * 1982
     * [Cannery Row](https://www.imdb.com/title/tt0083717/?ref_=nv_sr_srsg_0)
