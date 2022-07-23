@@ -99,11 +99,14 @@
     * [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/?ref_=nv_sr_srsg_3)
 * 2003
     * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
+    * [Seabiscuit](https://www.imdb.com/title/tt0329575/?ref_=fn_al_tt_1)
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
     * [National Treasure](https://www.imdb.com/title/tt0368891/?ref_=fn_al_tt_1)
     * [Shaun of the Dead](https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_1)
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
+* 2005
+    * [Sky High](https://www.imdb.com/title/tt0405325/)
 * 2007
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
 * 2008
