@@ -40,6 +40,7 @@
     * [The Sand Pebbles](https://www.imdb.com/title/tt0060934/?ref_=nv_sr_srsg_0)
 * 1966
     * [A Man for All Seasons](https://www.imdb.com/title/tt0060665/?ref_=nm_knf_i1)
+    * [The Good, the Bad and the Ugly](https://www.imdb.com/title/tt0060196/?ref_=nm_flmg_act_50)
 * 1967
     * [In the Heat of the Night](https://www.imdb.com/title/tt0061811/?ref_=fn_al_tt_2)
 * 1968
@@ -49,6 +50,8 @@
 
 # The 1970's #
 * 1971
+    * [Dirty Harry](https://www.imdb.com/title/tt0066999/?ref_=nm_flmg_act_40)
+    * [Play Misty for Me](https://www.imdb.com/title/tt0067588/?ref_=nm_flmg_act_41)
     * [The French Connection](https://www.imdb.com/title/tt0067116/?ref_=nv_sr_srsg_0)
     * [The Last Picture Show](https://www.imdb.com/title/tt0067328/?ref_=nv_sr_srsg_0)
 * 1973
@@ -82,6 +85,8 @@
     * [Tremors](https://www.imdb.com/title/tt2582782/?ref_=nv_sr_srsg_0)
 * 1991
     * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
+* 1992
+    * [Unforgiven](https://www.imdb.com/title/tt0105695/?ref_=nm_flmg_act_15)
 * 1996
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 1997
@@ -97,10 +102,12 @@
     * [Snatch](https://www.imdb.com/title/tt0208092/?ref_=nv_sr_srsg_0)
     * [Wonder Boys](https://www.imdb.com/title/tt0185014/?ref_=fn_al_tt_1)
 * 2001
+    * [I Am Sam](https://www.imdb.com/title/tt0277027/?ref_=nm_flmg_act_34)
     * [The Mummy Returns](https://www.imdb.com/title/tt0209163/?ref_=nv_sr_srsg_0)
     * [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/?ref_=nv_sr_srsg_3)
 * 2003
     * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
+    * [Mystic River](https://www.imdb.com/title/tt0327056/?ref_=fn_al_tt_1)
     * [Seabiscuit](https://www.imdb.com/title/tt0329575/?ref_=fn_al_tt_1)
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
 * 2004
@@ -112,6 +119,7 @@
 * 2007
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
 * 2008
+    * [Gran Torino](https://www.imdb.com/title/tt1205489/?ref_=nm_knf_t2)
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
 * 2009
     * [Inglourious Basterds](https://www.imdb.com/title/tt0361748/)
@@ -155,6 +163,7 @@
     * [A Quiet Place](https://www.imdb.com/title/tt6644200/?ref_=nm_flmg_act_9)
     * [At Eternity's Gate](https://www.imdb.com/title/tt6938828/?ref_=fn_al_tt_1)
     * [Sometimes Always Never](https://www.imdb.com/title/tt5068162/?ref_=nm_flmg_act_22)
+    * [The 15:17 to Paris](https://www.imdb.com/title/tt6802308/)
     * [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/?ref_=nv_sr_srsg_0)
 * 2019
     * [Ad Astra](https://www.imdb.com/title/tt2935510/?ref_=nv_sr_srsg_6)
