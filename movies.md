@@ -7,18 +7,31 @@
     * [The Maltese Falcon](https://www.imdb.com/title/tt0033870/?ref_=nv_sr_srsg_0)
 * 1942
     * [The Ox-Bow Incident](https://www.imdb.com/title/tt0036244/?ref_=nv_sr_srsg_0)
+* 1943
+* 1944
+* 1945
+* 1946
+    * [The Big Sleep](https://www.imdb.com/title/tt0038355/?ref_=nm_flmg_act_27)
+* 1947
 * 1948
     * [Mr. Blandings Builds His Dream House](https://www.imdb.com/title/tt0040613/?ref_=fn_al_tt_1)
     * [Rope](https://www.imdb.com/title/tt0040746/?ref_=nm_flmg_act_67)
     * [The Treasure of the Sierra Madre](https://www.imdb.com/title/tt0040897/?ref_=nv_sr_srsg_0)
+* 1949
 
 # The 1950's #
+* 1950
+    * [Sunset Boulevard](https://www.imdb.com/title/tt0043014/?ref_=nm_knf_i3)
 * 1951
     * [Detective Story](https://www.imdb.com/title/tt0043465/?ref_=fn_al_tt_1)
+* 1952
 * 1953
     * [Shane](https://www.imdb.com/title/tt0046303/?ref_=nv_sr_srsg_6)
+    * [Staleg 17](https://www.imdb.com/title/tt0046359/?ref_=nm_knf_i1)
 * 1954
     * [Rear Window](https://www.imdb.com/title/tt0049470/)
+    * [The Bridges at Toko-Ri](https://www.imdb.com/title/tt0046806/?ref_=nm_flmg_act_34)
+    * [The Caine Mutiny](https://www.imdb.com/title/tt0046816/?ref_=nm_flmg_act_8)
     * [The Egyptian](https://www.imdb.com/title/tt0046949/?ref_=nv_sr_srsg_0)
 * 1955
     * [The Man from Laremie](https://www.imdb.com/title/tt0048342/?ref_=nv_sr_srsg_0)
@@ -29,8 +42,13 @@
 * 1957
     * [The Bridge on the River Kwai](https://www.imdb.com/title/tt0050212/?ref_=nv_sr_srsg_0)
     * [The Sun Also Rises](https://www.imdb.com/title/tt0051028/?ref_=fn_al_tt_1)
+* 1958
+* 1959
 
 # The 1960's #
+* 1960
+* 1961
+* 1962
 * 1963
     * [Hud](https://www.imdb.com/title/tt0057163/?ref_=fn_al_tt_1)
 * 1964
@@ -49,13 +67,22 @@
     * [Midnight Cowboy](https://www.imdb.com/title/tt0064665/?ref_=nv_sr_srsg_0)
 
 # The 1970's #
+* 1970
 * 1971
     * [Dirty Harry](https://www.imdb.com/title/tt0066999/?ref_=nm_flmg_act_40)
     * [Play Misty for Me](https://www.imdb.com/title/tt0067588/?ref_=nm_flmg_act_41)
     * [The French Connection](https://www.imdb.com/title/tt0067116/?ref_=nv_sr_srsg_0)
     * [The Last Picture Show](https://www.imdb.com/title/tt0067328/?ref_=nv_sr_srsg_0)
+* 1972
 * 1973
     * [American Graffiti](https://www.imdb.com/title/tt0069704/?ref_=nv_sr_srsg_0)
+* 1974
+* 1975
+* 1976
+* 1977
+* 1978
+    * [Movie Movie](https://www.imdb.com/title/tt0077952/?ref_=fn_al_tt_1)
+* 1979
 
 # The 1980's #
 * 1980
@@ -72,12 +99,15 @@
 * 1984
     * [The Adventures of Buckaroo Banzai Across the 8th Dimension](https://www.imdb.com/title/tt0086856/?ref_=nv_sr_srsg_0)
     * [The Terminator](https://www.imdb.com/title/tt0088247/?ref_=nv_sr_srsg_0)
+* 1985
+* 1986
 * 1987
     * [Throw Momma from the Train](https://www.imdb.com/title/tt0094142/?ref_=nv_sr_srsg_0)
 * 1988
     * [Cinema Paradiso](https://www.imdb.com/title/tt0095765/)
     * [Crossing Delancey](https://www.imdb.com/title/tt0094921/?ref_=nv_sr_srsg_3)
     * [The Music Teacher](https://www.imdb.com/title/tt0095606/?ref_=fn_al_tt_2)
+* 1989
 
 # The 1990's #
 * 1990
@@ -87,6 +117,9 @@
     * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
 * 1992
     * [Unforgiven](https://www.imdb.com/title/tt0105695/?ref_=nm_flmg_act_15)
+* 1993
+* 1994
+* 1995
 * 1996
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 1997
@@ -94,6 +127,7 @@
 * 1998
     * [The Big Lebowski](https://www.imdb.com/title/tt0118715/?ref_=nv_sr_srsg_0)
 * 1999
+    * [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1)
     * [The Mummy](https://www.imdb.com/title/tt0120616/?ref_=fn_al_tt_1)
 
 # The 2000's #
@@ -104,18 +138,26 @@
 * 2001
     * [I Am Sam](https://www.imdb.com/title/tt0277027/?ref_=nm_flmg_act_34)
     * [The Mummy Returns](https://www.imdb.com/title/tt0209163/?ref_=nv_sr_srsg_0)
+    * [The Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/?ref_=nv_sr_srsg_3)
     * [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/?ref_=nv_sr_srsg_3)
+* 2002
+    * [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/?ref_=tt_sims_tt_i_1)
 * 2003
     * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
     * [Mystic River](https://www.imdb.com/title/tt0327056/?ref_=fn_al_tt_1)
     * [Seabiscuit](https://www.imdb.com/title/tt0329575/?ref_=fn_al_tt_1)
     * [Terminator 3: Rise of the Machines](https://www.imdb.com/title/tt0181852/?ref_=nv_sr_srsg_0)
+    * [The Lord of the Rings: The Return of the King](https://www.imdb.com/title/tt0167260/?ref_=tt_sims_tt_t_1)
+    * [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/?ref_=nv_sr_srsg_6)
+    * [The Matrix Revolutions](https://www.imdb.com/title/tt0242653/?ref_=nv_sr_srsg_7)
 * 2004
     * [National Treasure](https://www.imdb.com/title/tt0368891/?ref_=fn_al_tt_1)
     * [Shaun of the Dead](https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_1)
+    * [Sky Captain and the World of Tomorrow](https://www.imdb.com/title/tt0346156/?ref_=nv_sr_srsg_0)
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2005
     * [Sky High](https://www.imdb.com/title/tt0405325/)
+* 2006
 * 2007
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
 * 2008
@@ -171,6 +213,8 @@
     * [Lost in paris](https://www.imdb.com/title/tt10956304/?ref_=nv_sr_srsg_3)
 
 # The 2020's #
+* 2020
 * 2021
     * [A Quiet Place Part II](https://www.imdb.com/title/tt8332922/?ref_=nm_flmg_act_6)
     * [The Colony](https://www.imdb.com/title/tt6506264/?ref_=nv_sr_srsg_7)
+* 2022
