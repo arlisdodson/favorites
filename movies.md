@@ -99,6 +99,10 @@
 * 1978
     * [Movie Movie](https://www.imdb.com/title/tt0077952/?ref_=fn_al_tt_1)
 * 1979
+    * [Alien](https://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_1)
+    * [Being There](https://www.imdb.com/title/tt0078841/?ref_=fn_al_tt_1)
+    * [Breaking Away](https://www.imdb.com/title/tt0078902/?ref_=fn_al_tt_1)
+    * [Time After Time](https://www.imdb.com/title/tt0080025/?ref_=fn_al_tt_1)
 
 # The 1980's #
 * 1980
@@ -117,6 +121,7 @@
     * [The Terminator](https://www.imdb.com/title/tt0088247/?ref_=nv_sr_srsg_0)
 * 1985
 * 1986
+    * [Aliens](https://www.imdb.com/title/tt0090605/?ref_=tt_sims_tt_i_1)
 * 1987
     * [Throw Momma from the Train](https://www.imdb.com/title/tt0094142/?ref_=nv_sr_srsg_0)
 * 1988
@@ -134,8 +139,10 @@
 * 1992
     * [Unforgiven](https://www.imdb.com/title/tt0105695/?ref_=nm_flmg_act_15)
 * 1993
+    * [Tombstone](https://www.imdb.com/title/tt0108358/?ref_=nm_flmg_act_52)
 * 1994
 * 1995
+    * [Apollo 13](https://www.imdb.com/title/tt0112384/?ref_=nm_knf_t3)
 * 1996
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 1997
