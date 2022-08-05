@@ -23,20 +23,25 @@
 * 1950
     * [Sunset Boulevard](https://www.imdb.com/title/tt0043014/?ref_=nm_knf_i3)
 * 1951
+    * [An American in Paris](https://www.imdb.com/title/tt0043278/?ref_=fn_al_tt_1)
     * [Detective Story](https://www.imdb.com/title/tt0043465/?ref_=fn_al_tt_1)
 * 1952
 * 1953
     * [Shane](https://www.imdb.com/title/tt0046303/?ref_=nv_sr_srsg_6)
     * [Staleg 17](https://www.imdb.com/title/tt0046359/?ref_=nm_knf_i1)
 * 1954
+    * [20,000 Leagues Under the Sea](https://www.imdb.com/title/tt0046672/?ref_=nm_flmg_act_75)
     * [Rear Window](https://www.imdb.com/title/tt0049470/)
     * [The Bridges at Toko-Ri](https://www.imdb.com/title/tt0046806/?ref_=nm_flmg_act_34)
     * [The Caine Mutiny](https://www.imdb.com/title/tt0046816/?ref_=nm_flmg_act_8)
     * [The Egyptian](https://www.imdb.com/title/tt0046949/?ref_=nv_sr_srsg_0)
+    * [Ulysses](https://www.imdb.com/title/tt0047630/?ref_=nm_flmg_act_74)
 * 1955
+    * [Oklahoma!](https://www.imdb.com/title/tt0048445/?ref_=fn_al_tt_1)
     * [The Man from Laremie](https://www.imdb.com/title/tt0048342/?ref_=nv_sr_srsg_0)
 * 1956
     * [Forbidden Planet](https://www.imdb.com/title/tt0049223/?ref_=nv_sr_srsg_0)
+    * [Lust for Life](https://www.imdb.com/title/tt0049456/?ref_=nm_knf_t3)
     * [The Man Who Knew Too Much](https://www.imdb.com/title/tt0049470/)
     * [The Searchers](https://www.imdb.com/title/tt0049730/?ref_=nv_sr_srsg_0)
 * 1957
@@ -47,11 +52,16 @@
 
 # The 1960's #
 * 1960
+    * [Spartacus](https://www.imdb.com/title/tt0054331/?ref_=nm_flmg_act_61)
+    * [Strangers When We Meet](https://www.imdb.com/title/tt0054345/?ref_=nm_flmg_act_62)
 * 1961
+    * [The Hustler](https://www.imdb.com/title/tt0054997/)
+    * [West Side Story](https://www.imdb.com/title/tt0055614/?ref_=fn_al_tt_2)
 * 1962
 * 1963
     * [Hud](https://www.imdb.com/title/tt0057163/?ref_=fn_al_tt_1)
 * 1964
+    * [Seven Days in May](https://www.imdb.com/title/tt0058576/?ref_=nm_flmg_act_53)
     * [Zulu](https://www.imdb.com/title/tt0058777/?ref_=nv_sr_srsg_0)
 * 1965
     * [The Flight of the Phoenix](https://www.imdb.com/title/tt0059183/?ref_=nm_flmg_act_21)
@@ -61,6 +71,7 @@
     * [The Good, the Bad and the Ugly](https://www.imdb.com/title/tt0060196/?ref_=nm_flmg_act_50)
 * 1967
     * [In the Heat of the Night](https://www.imdb.com/title/tt0061811/?ref_=fn_al_tt_2)
+    * [To Sir, with Love](https://www.imdb.com/title/tt0062376/?ref_=fn_al_tt_6)
 * 1968
     * [Bullitt](https://www.imdb.com/title/tt0062765/?ref_=nv_sr_srsg_0)
 * 1969
