@@ -48,6 +48,7 @@
     * [The Bridge on the River Kwai](https://www.imdb.com/title/tt0050212/?ref_=nv_sr_srsg_0)
     * [The Sun Also Rises](https://www.imdb.com/title/tt0051028/?ref_=fn_al_tt_1)
 * 1958
+    * [The Defiant Ones](https://www.imdb.com/title/tt0051525/?ref_=fn_al_tt_2)
 * 1959
 
 # The 1960's #
