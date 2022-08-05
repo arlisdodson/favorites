@@ -50,6 +50,7 @@
 * 1958
     * [The Defiant Ones](https://www.imdb.com/title/tt0051525/?ref_=fn_al_tt_2)
 * 1959
+    * [North by Northwest](https://www.imdb.com/title/tt0053125/?ref_=fn_al_tt_1)
 
 # The 1960's #
 * 1960
@@ -136,6 +137,7 @@
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 1997
     * [Good Will Hunting](https://www.imdb.com/title/tt0119217/?ref_=nm_knf_i1)
+    * [The Man Who Knew Too Little](https://www.imdb.com/title/tt0120483/?ref_=nm_flmg_act_60)
 * 1998
     * [The Big Lebowski](https://www.imdb.com/title/tt0118715/?ref_=nv_sr_srsg_0)
 * 1999
@@ -155,6 +157,7 @@
 * 2002
     * [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/?ref_=tt_sims_tt_i_1)
 * 2003
+    * [Lost in Translation](https://www.imdb.com/title/tt0335266/?ref_=nm_knf_t1)
     * [Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/)
     * [Mystic River](https://www.imdb.com/title/tt0327056/?ref_=fn_al_tt_1)
     * [Seabiscuit](https://www.imdb.com/title/tt0329575/?ref_=fn_al_tt_1)
@@ -190,6 +193,7 @@
     * [Tinker Tailor Soldier Spy](https://www.imdb.com/title/tt1340800/?ref_=nv_sr_srsg_0)
 * 2012
     * [John Carter](https://www.imdb.com/title/tt0401729/?ref_=fn_al_tt_1)
+    * [Moonrise Kingdom](https://www.imdb.com/title/tt1748122/?ref_=nm_flmg_act_30)
     * [Prometheus](https://www.imdb.com/title/tt1446714/?ref_=nv_sr_srsg_0)
     * [The Impossible](https://www.imdb.com/title/tt1649419/)
     * [Total Recall](https://www.imdb.com/title/tt1386703/?ref_=nm_flmg_act_48)
