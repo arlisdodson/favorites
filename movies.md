@@ -140,6 +140,7 @@
 * 1992
     * [Unforgiven](https://www.imdb.com/title/tt0105695/?ref_=nm_flmg_act_15)
 * 1993
+    * [Madadayo](https://www.imdb.com/title/tt0107474/?ref_=nm_flmg_wr_18)
     * [Tombstone](https://www.imdb.com/title/tt0108358/?ref_=nm_flmg_act_52)
 * 1994
 * 1995
