@@ -65,6 +65,7 @@
     * [Lawrence of Arabia](https://www.imdb.com/title/tt0056172/?ref_=fn_al_tt_1)
 * 1963
     * [Hud](https://www.imdb.com/title/tt0057163/?ref_=fn_al_tt_1)
+    * [It's a Mad Mad Mad Mad World](https://www.imdb.com/title/tt0057193/?ref_=fn_al_tt_1)
 * 1964
     * [Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb](https://www.imdb.com/title/tt0057012/?ref_=fn_al_tt_1)
     * [Fail Safe](https://www.imdb.com/title/tt0058083/?ref_=fn_al_tt_1)
@@ -94,6 +95,7 @@
     * [The French Connection](https://www.imdb.com/title/tt0067116/?ref_=nv_sr_srsg_0)
     * [The Last Picture Show](https://www.imdb.com/title/tt0067328/?ref_=nv_sr_srsg_0)
 * 1972
+    * [Man of La Mancha](https://www.imdb.com/title/tt0068909/?ref_=nv_sr_srsg_0)
 * 1973
     * [American Graffiti](https://www.imdb.com/title/tt0069704/?ref_=nv_sr_srsg_0)
 * 1974
