@@ -51,6 +51,7 @@
 * 1958
     * [The Defiant Ones](https://www.imdb.com/title/tt0051525/?ref_=fn_al_tt_2)
 * 1959
+    * [Ben-Hur](https://www.imdb.com/title/tt0052618/?ref_=nm_knf_i4)
     * [North by Northwest](https://www.imdb.com/title/tt0053125/?ref_=fn_al_tt_1)
 
 # The 1960's #
