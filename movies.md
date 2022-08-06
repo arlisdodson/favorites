@@ -97,6 +97,7 @@
 * 1976
 * 1977
 * 1978
+    * [Once in Paris...](https://www.imdb.com/title/tt0078029/?ref_=nm_flmg_act_29)
     * [Movie Movie](https://www.imdb.com/title/tt0077952/?ref_=fn_al_tt_1)
 * 1979
     * [Alien](https://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_1)
