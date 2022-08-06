@@ -61,6 +61,7 @@
     * [The Hustler](https://www.imdb.com/title/tt0054997/)
     * [West Side Story](https://www.imdb.com/title/tt0055614/?ref_=fn_al_tt_2)
 * 1962
+    * [Lawrence of Arabia](https://www.imdb.com/title/tt0056172/?ref_=fn_al_tt_1)
 * 1963
     * [Hud](https://www.imdb.com/title/tt0057163/?ref_=fn_al_tt_1)
 * 1964
@@ -69,6 +70,7 @@
     * [Seven Days in May](https://www.imdb.com/title/tt0058576/?ref_=nm_flmg_act_53)
     * [Zulu](https://www.imdb.com/title/tt0058777/?ref_=nv_sr_srsg_0)
 * 1965
+    * [Doctor Zhivago](https://www.imdb.com/title/tt1441951/?ref_=nv_sr_srsg_6)
     * [The Flight of the Phoenix](https://www.imdb.com/title/tt0059183/?ref_=nm_flmg_act_21)
     * [The Sand Pebbles](https://www.imdb.com/title/tt0060934/?ref_=nv_sr_srsg_0)
 * 1966
