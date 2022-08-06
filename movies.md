@@ -41,6 +41,7 @@
     * [Oklahoma!](https://www.imdb.com/title/tt0048445/?ref_=fn_al_tt_1)
     * [The Man from Laremie](https://www.imdb.com/title/tt0048342/?ref_=nv_sr_srsg_0)
 * 1956
+    * [Around the World in 80 Days](https://www.imdb.com/title/tt0048960/?ref_=fn_al_tt_2)
     * [Forbidden Planet](https://www.imdb.com/title/tt0049223/?ref_=nv_sr_srsg_0)
     * [Lust for Life](https://www.imdb.com/title/tt0049456/?ref_=nm_knf_t3)
     * [The Man Who Knew Too Much](https://www.imdb.com/title/tt0049470/)
@@ -115,6 +116,7 @@
 * 1980
     * [Breaker Morant](https://www.imdb.com/title/tt0080310/?ref_=tt_urv)
 * 1981
+    * [Chariots of Fire](https://www.imdb.com/title/tt0082158/?ref_=fn_al_tt_1)
     * [Gallipoli](https://www.imdb.com/title/tt0082432/?ref_=nv_sr_srsg_0)
     * [Indiana Jones and the Raiders of the Lost Ark](https://www.imdb.com/title/tt0082971/?ref_=fn_al_tt_2)
     * [The Boat](https://www.imdb.com/title/tt0082096/?ref_=fn_al_tt_2)
@@ -134,6 +136,7 @@
 * 1988
     * [Cinema Paradiso](https://www.imdb.com/title/tt0095765/)
     * [Crossing Delancey](https://www.imdb.com/title/tt0094921/?ref_=nv_sr_srsg_3)
+    * [The Accidental Tourist](https://www.imdb.com/title/tt0094606/?ref_=nm_flmg_act_89)
     * [The Music Teacher](https://www.imdb.com/title/tt0095606/?ref_=fn_al_tt_2)
 * 1989
 
@@ -156,8 +159,10 @@
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
 * 1997
     * [Good Will Hunting](https://www.imdb.com/title/tt0119217/?ref_=nm_knf_i1)
+    * [The Fifth Element](https://www.imdb.com/title/tt1037705/?ref_=nm_flmg_act_39)
     * [The Man Who Knew Too Little](https://www.imdb.com/title/tt0120483/?ref_=nm_flmg_act_60)
 * 1998
+    * [Lost in Space](https://www.imdb.com/title/tt0120738/?ref_=fn_al_tt_3)
     * [The Big Lebowski](https://www.imdb.com/title/tt0118715/?ref_=nv_sr_srsg_0)
 * 1999
     * [Being John Malkovich](https://www.imdb.com/title/tt0120601/?ref_=nv_sr_srsg_0)
@@ -209,6 +214,7 @@
 # The 2010's #
 * 2010
     * [Hereafter](https://www.imdb.com/title/tt1212419/?ref_=fn_al_tt_1)
+    * [The Book of Eli](https://www.imdb.com/title/tt1037705/?ref_=nm_flmg_act_39)
     * [True Grit](https://www.imdb.com/title/tt1403865/?ref_=nv_sr_srsg_0)
 * 2011
     * [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nv_sr_srsg_0)
