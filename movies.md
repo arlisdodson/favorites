@@ -95,6 +95,7 @@
     * [Play Misty for Me](https://www.imdb.com/title/tt0067588/?ref_=nm_flmg_act_41)
     * [The French Connection](https://www.imdb.com/title/tt0067116/?ref_=nv_sr_srsg_0)
     * [The Last Picture Show](https://www.imdb.com/title/tt0067328/?ref_=nv_sr_srsg_0)
+    * [THX 1138](https://www.imdb.com/title/tt0066434/)
 * 1972
     * [Man of La Mancha](https://www.imdb.com/title/tt0068909/?ref_=nv_sr_srsg_0)
 * 1973
