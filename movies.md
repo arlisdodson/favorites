@@ -263,6 +263,7 @@
     * [London Has Fallen](https://www.imdb.com/title/tt3300542/?ref_=tt_sims_tt_i_1)
 * 2017
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
+    * [All Nighter](https://www.imdb.com/title/tt4662420/)
 * 2018
     * [A Quiet Place](https://www.imdb.com/title/tt6644200/?ref_=nm_flmg_act_9)
     * [An Interview with God](https://www.imdb.com/title/tt5779372/?ref_=nm_flmg_act_17)
@@ -272,6 +273,7 @@
     * [The 15:17 to Paris](https://www.imdb.com/title/tt6802308/)
     * [The Ballad of Buster Scruggs](https://www.imdb.com/title/tt6412452/?ref_=nv_sr_srsg_0)
 * 2019
+    * [21 Bridges](https://www.imdb.com/title/tt8688634/?ref_=nm_flmg_act_4)
     * [Ad Astra](https://www.imdb.com/title/tt2935510/?ref_=nv_sr_srsg_6)
     * [Angel Has Fallen](https://www.imdb.com/title/tt6189022/?ref_=tt_sims_tt_i_2)
     * [Lost in paris](https://www.imdb.com/title/tt10956304/?ref_=nv_sr_srsg_3)
