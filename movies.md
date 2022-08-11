@@ -222,6 +222,7 @@
     * [The Book of Eli](https://www.imdb.com/title/tt1037705/?ref_=nm_flmg_act_39)
     * [True Grit](https://www.imdb.com/title/tt1403865/?ref_=nv_sr_srsg_0)
 * 2011
+    * [Battle Los Angeles](https://www.imdb.com/title/tt1217613/)
     * [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nv_sr_srsg_0)
     * [Moneyball](https://www.imdb.com/title/tt1210166/?ref_=nm_knf_i3)
     * [The Best Exotic Marigold Hotel](https://www.imdb.com/title/tt1412386/?ref_=nm_flmg_act_50)
