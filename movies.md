@@ -277,6 +277,7 @@
 
 # The 2020's #
 * 2020
+    * [The Queen's Gambit](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0)
 * 2021
     * [A Quiet Place Part II](https://www.imdb.com/title/tt8332922/?ref_=nm_flmg_act_6)
     * [The Colony](https://www.imdb.com/title/tt6506264/?ref_=nv_sr_srsg_7)
