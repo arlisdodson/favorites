@@ -189,6 +189,7 @@
     * [The Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/?ref_=nv_sr_srsg_3)
     * [The Royal Tenenbaums](https://www.imdb.com/title/tt0265666/?ref_=nv_sr_srsg_3)
 * 2002
+    * [Catch Me If You Can](https://www.imdb.com/title/tt0264464/?ref_=fn_al_tt_1)
     * [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/?ref_=tt_sims_tt_i_1)
 * 2003
     * [Lost in Translation](https://www.imdb.com/title/tt0335266/?ref_=nm_knf_t1)
