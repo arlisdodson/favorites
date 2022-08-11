@@ -229,6 +229,7 @@
     * [Tinker Tailor Soldier Spy](https://www.imdb.com/title/tt1340800/?ref_=nv_sr_srsg_0)
 * 2012
     * [John Carter](https://www.imdb.com/title/tt0401729/?ref_=fn_al_tt_1)
+    * [Lincoln](https://www.imdb.com/title/tt0443272/?ref_=fn_al_tt_1)
     * [Moonrise Kingdom](https://www.imdb.com/title/tt1748122/?ref_=nm_flmg_act_30)
     * [Prometheus](https://www.imdb.com/title/tt1446714/?ref_=nv_sr_srsg_0)
     * [Quartet](https://www.imdb.com/title/tt1441951/?ref_=nv_sr_srsg_6)
