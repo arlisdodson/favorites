@@ -154,6 +154,7 @@
     * [Falling Down](https://www.imdb.com/title/tt0106856/?ref_=nm_flmg_act_39)
     * [Madadayo](https://www.imdb.com/title/tt0107474/?ref_=nm_flmg_wr_18)
     * [Tombstone](https://www.imdb.com/title/tt0108358/?ref_=nm_flmg_act_52)
+    * [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/)
 * 1994
     * [Stargate](https://www.imdb.com/title/tt0111282/?ref_=nv_sr_srsg_0)
     * [Tom & Viv](https://www.imdb.com/title/tt0111454/?ref_=nm_flmg_act_123)
