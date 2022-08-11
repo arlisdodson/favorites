@@ -214,6 +214,7 @@
 * 2008
     * [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=nm_flmg_act_20)
     * [Gran Torino](https://www.imdb.com/title/tt1205489/?ref_=nm_knf_t2)
+    * [Serenity](https://www.imdb.com/title/tt0379786/?ref_=nv_sr_srsg_0)
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
 * 2009
     * [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=nm_flmg_act_67)
