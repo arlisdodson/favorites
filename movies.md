@@ -155,6 +155,7 @@
     * [Madadayo](https://www.imdb.com/title/tt0107474/?ref_=nm_flmg_wr_18)
     * [Tombstone](https://www.imdb.com/title/tt0108358/?ref_=nm_flmg_act_52)
 * 1994
+    * [Stargate](https://www.imdb.com/title/tt0111282/?ref_=nv_sr_srsg_0)
     * [Tom & Viv](https://www.imdb.com/title/tt0111454/?ref_=nm_flmg_act_123)
 * 1995
     * [Apollo 13](https://www.imdb.com/title/tt0112384/?ref_=nm_knf_t3)
