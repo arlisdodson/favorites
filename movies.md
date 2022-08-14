@@ -160,6 +160,7 @@
     * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
 * 1992
     * [Captain Ron](https://www.imdb.com/title/tt0103924/?ref_=nm_flmg_act_35)
+    * [Reservoir Dogs](https://www.imdb.com/title/tt0105236/?ref_=nm_knf_i1)
     * [Unforgiven](https://www.imdb.com/title/tt0105695/?ref_=nm_flmg_act_15)
     * [Wind](https://www.imdb.com/title/tt0105824/?ref_=nv_sr_srsg_8)
 * 1993
@@ -168,6 +169,7 @@
     * [Tombstone](https://www.imdb.com/title/tt0108358/?ref_=nm_flmg_act_52)
     * [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/)
 * 1994
+    * [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0)
     * [Stargate](https://www.imdb.com/title/tt0111282/?ref_=nv_sr_srsg_0)
     * [Tom & Viv](https://www.imdb.com/title/tt0111454/?ref_=nm_flmg_act_123)
 * 1995
@@ -183,6 +185,7 @@
 * 1998
     * [Lost in Space](https://www.imdb.com/title/tt0120738/?ref_=fn_al_tt_3)
     * [The Big Lebowski](https://www.imdb.com/title/tt0118715/?ref_=nv_sr_srsg_0)
+    * [The Red Violin](https://www.imdb.com/title/tt0120802/?ref_=nv_sr_srsg_0)
 * 1999
     * [Being John Malkovich](https://www.imdb.com/title/tt0120601/?ref_=nv_sr_srsg_0)
     * [[Office Space](https://www.imdb.com/title/tt0151804/?ref_=nv_sr_srsg_3)
@@ -294,6 +297,7 @@
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
     * [All Nighter](https://www.imdb.com/title/tt4662420/)
     * [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nm_flmg_act_7)
+    * [The Death of Stalin](https://www.imdb.com/title/tt4686844/?ref_=nm_knf_i4)
 * 2018
     * [A Quiet Place](https://www.imdb.com/title/tt6644200/?ref_=nm_flmg_act_9)
     * [An Interview with God](https://www.imdb.com/title/tt5779372/?ref_=nm_flmg_act_17)
