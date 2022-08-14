@@ -139,6 +139,7 @@
 * 1985
     * [The Man with One Red Shoe](https://www.imdb.com/title/tt0089543/)
 * 1986
+    * [Betty Blue](https://www.imdb.com/title/tt0090563/?ref_=nv_sr_srsg_0)
     * [Aliens](https://www.imdb.com/title/tt0090605/?ref_=tt_sims_tt_i_1)
 * 1987
     * [Raising Arizona](https://www.imdb.com/title/tt0082158/?ref_=fn_al_tt_1)
