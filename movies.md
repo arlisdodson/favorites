@@ -229,6 +229,7 @@
     * [Casino Royale](https://www.imdb.com/title/tt0381061/?ref_=nv_sr_srsg_0)
 * 2007
     * [National Treasure: Book of Secrets](https://www.imdb.com/title/tt0465234/?ref_=nv_sr_srsg_7)
+    * [Sunshine](https://www.imdb.com/title/tt0448134/?ref_=nv_sr_srsg_0)
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
 * 2008
     * [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=nm_flmg_act_20)
