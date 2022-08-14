@@ -84,6 +84,7 @@
     * [A Man for All Seasons](https://www.imdb.com/title/tt0060665/?ref_=nm_knf_i1)
     * [The Good, the Bad and the Ugly](https://www.imdb.com/title/tt0060196/?ref_=nm_flmg_act_50)
 * 1967
+    * [Camelot](https://www.imdb.com/title/tt0061439/?ref_=nm_knf_t3)
     * [In the Heat of the Night](https://www.imdb.com/title/tt0061811/?ref_=fn_al_tt_2)
     * [To Sir, with Love](https://www.imdb.com/title/tt0062376/?ref_=fn_al_tt_6)
 * 1968
