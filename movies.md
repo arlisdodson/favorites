@@ -106,6 +106,7 @@
 * 1973
     * [American Graffiti](https://www.imdb.com/title/tt0069704/?ref_=nv_sr_srsg_0)
 * 1974
+    * [The Taking of Pelham One Two Three](https://www.imdb.com/title/tt0072251/?ref_=nv_sr_srsg_4)
 * 1975
 * 1976
     * [The Seven-Per-Cent Solution](https://www.imdb.com/title/tt0075194/)
@@ -250,6 +251,7 @@
     * [Moonrise Kingdom](https://www.imdb.com/title/tt1748122/?ref_=nm_flmg_act_30)
     * [Prometheus](https://www.imdb.com/title/tt1446714/?ref_=nv_sr_srsg_0)
     * [Quartet](https://www.imdb.com/title/tt1441951/?ref_=nv_sr_srsg_6)
+    * [The Chef](https://www.imdb.com/title/tt1911553/?ref_=nv_sr_srsg_0)
     * [The Impossible](https://www.imdb.com/title/tt1649419/)
     * [Total Recall](https://www.imdb.com/title/tt1386703/?ref_=nm_flmg_act_48)
 * 2013
@@ -257,6 +259,7 @@
     * [Odd Thomas](https://www.imdb.com/title/tt1767354/?ref_=fn_al_tt_1)
     * [Olympus Has Fallen](https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0)
 * 2014
+    * [Chef](https://www.imdb.com/title/tt2883512/?ref_=nv_sr_srsg_0)
     * [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/)
         * Cage: "... you're an American."
         * Master Sergeant Farell: "No sir!  I'm from Kentucky!"
@@ -264,6 +267,7 @@
     * [Intersellar](https://www.imdb.com/title/tt0816692/)
     * [Kill Me Three Times](https://www.imdb.com/title/tt0099819/)
     * [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
+    * [The Hundred-Foot Journey](https://www.imdb.com/title/tt2980648/)
 * 2015
     * [Man Up](https://www.imdb.com/title/tt3064298/?ref_=nm_flmg_act_34)
     * [The Big Short](https://www.imdb.com/title/tt1596363/?ref_=fn_al_tt_1)
