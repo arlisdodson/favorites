@@ -130,6 +130,7 @@
     * [The Adventures of Buckaroo Banzai Across the 8th Dimension](https://www.imdb.com/title/tt0086856/?ref_=nv_sr_srsg_0)
     * [The Terminator](https://www.imdb.com/title/tt0088247/?ref_=nv_sr_srsg_0)
 * 1985
+    * [The Man with One Red Shoe](https://www.imdb.com/title/tt0089543/)
 * 1986
     * [Aliens](https://www.imdb.com/title/tt0090605/?ref_=tt_sims_tt_i_1)
 * 1987
@@ -149,7 +150,9 @@
 * 1991
     * [Terminator 2: Judgement Day](https://www.imdb.com/title/tt0103064/?ref_=tt_sims_tt_i_1)
 * 1992
+    * [Captain Ron](https://www.imdb.com/title/tt0103924/?ref_=nm_flmg_act_35)
     * [Unforgiven](https://www.imdb.com/title/tt0105695/?ref_=nm_flmg_act_15)
+    * [Wind](https://www.imdb.com/title/tt0105824/?ref_=nv_sr_srsg_8)
 * 1993
     * [Falling Down](https://www.imdb.com/title/tt0106856/?ref_=nm_flmg_act_39)
     * [Madadayo](https://www.imdb.com/title/tt0107474/?ref_=nm_flmg_wr_18)
