@@ -22,6 +22,7 @@
 # The 1950's #
 * 1950
     * [Sunset Boulevard](https://www.imdb.com/title/tt0043014/?ref_=nm_knf_i3)
+    * [Young Man with a Horn](https://www.imdb.com/title/tt0043153/?ref_=fn_al_tt_1)
 * 1951
     * [An American in Paris](https://www.imdb.com/title/tt0043278/?ref_=fn_al_tt_1)
     * [Detective Story](https://www.imdb.com/title/tt0043465/?ref_=fn_al_tt_1)
@@ -75,7 +76,9 @@
 * 1965
     * [Doctor Zhivago](https://www.imdb.com/title/tt1441951/?ref_=nv_sr_srsg_6)
     * [The Flight of the Phoenix](https://www.imdb.com/title/tt0059183/?ref_=nm_flmg_act_21)
+    * [The Great Race](https://www.imdb.com/title/tt0059243/?ref_=nv_sr_srsg_0)
     * [The Greatest Story Ever Told](https://www.imdb.com/title/tt0059245/?ref_=nm_flmg_act_85)
+    * [The Heroes of Telemark](https://www.imdb.com/title/tt0043153/?ref_=fn_al_tt_1)
     * [The Sand Pebbles](https://www.imdb.com/title/tt0060934/?ref_=nv_sr_srsg_0)
 * 1966
     * [A Man for All Seasons](https://www.imdb.com/title/tt0060665/?ref_=nm_knf_i1)
