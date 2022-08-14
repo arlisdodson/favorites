@@ -174,6 +174,7 @@
     * [Apollo 13](https://www.imdb.com/title/tt0112384/?ref_=nm_knf_t3)
 * 1996
     * [Bottle Rocket](https://www.imdb.com/title/tt2278388/?ref_=nv_sr_srsg_2)
+    * [Fargo](https://www.imdb.com/title/tt0116282/)
 * 1997
     * [Good Will Hunting](https://www.imdb.com/title/tt0119217/?ref_=nm_knf_i1)
     * [Men in Black](https://www.imdb.com/title/tt0119654/?ref_=nm_flmg_act_38)
@@ -192,6 +193,8 @@
 * 2000
     * [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/?ref_=nv_sr_srsg_0)
     * [O Brother, Where Art Thou?](https://www.imdb.com/title/tt0190590/?ref_=fn_al_tt_2)
+    * [Pitch Black](https://www.imdb.com/title/tt0134847/?ref_=nv_sr_srsg_0)
+    * [Pollock](https://www.imdb.com/title/tt0183659/?ref_=nm_knf_t4)
     * [Red Planet](https://www.imdb.com/title/tt0199753/)
     * [Snatch](https://www.imdb.com/title/tt0208092/?ref_=nv_sr_srsg_0)
     * [Wonder Boys](https://www.imdb.com/title/tt0185014/?ref_=fn_al_tt_1)
@@ -218,18 +221,23 @@
     * [Shaun of the Dead](https://www.imdb.com/title/tt0365748/?ref_=nv_sr_srsg_1)
     * [Sideways](https://www.imdb.com/title/tt0375063/?ref_=nv_sr_srsg_0)
     * [Sky Captain and the World of Tomorrow](https://www.imdb.com/title/tt0346156/?ref_=nv_sr_srsg_0)
+    * [The Chronicles of Riddick](https://www.imdb.com/title/tt0296572/?ref_=tt_sims_tt_i_1)
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2005
     * [Sky High](https://www.imdb.com/title/tt0405325/)
 * 2006
+    * [Casino Royale](https://www.imdb.com/title/tt0381061/?ref_=nv_sr_srsg_0)
 * 2007
+    * [National Treasure: Book of Secrets](https://www.imdb.com/title/tt0465234/?ref_=nv_sr_srsg_7)
     * [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/)
 * 2008
     * [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=nm_flmg_act_20)
     * [Gran Torino](https://www.imdb.com/title/tt1205489/?ref_=nm_knf_t2)
+    * [Quantum of Solace](https://www.imdb.com/title/tt0830515/?ref_=tt_sims_tt_t_1)
     * [Serenity](https://www.imdb.com/title/tt0379786/?ref_=nv_sr_srsg_0)
     * [The Mummy: Tomb of the Dragon Emperor](https://www.imdb.com/title/tt0859163/?ref_=nv_sr_srsg_0)
 * 2009
+    * [A Serious Man](https://www.imdb.com/title/tt1019452/?ref_=nm_knf_t4)
     * [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=nm_flmg_act_67)
     * [Inglourious Basterds](https://www.imdb.com/title/tt0361748/)
     * [Terminator Salvation](https://www.imdb.com/title/tt0438488/?ref_=tt_sims_tt_i_1)
@@ -239,6 +247,7 @@
     * [Hereafter](https://www.imdb.com/title/tt1212419/?ref_=fn_al_tt_1)
     * [The Book of Eli](https://www.imdb.com/title/tt1037705/?ref_=nm_flmg_act_39)
     * [True Grit](https://www.imdb.com/title/tt1403865/?ref_=nv_sr_srsg_0)
+    * [Tucker and Dale vs Evil](https://www.imdb.com/title/tt1465522/?ref_=nm_flmg_act_105)
 * 2011
     * [Battle Los Angeles](https://www.imdb.com/title/tt1217613/)
     * [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nv_sr_srsg_0)
@@ -251,6 +260,7 @@
     * [Moonrise Kingdom](https://www.imdb.com/title/tt1748122/?ref_=nm_flmg_act_30)
     * [Prometheus](https://www.imdb.com/title/tt1446714/?ref_=nv_sr_srsg_0)
     * [Quartet](https://www.imdb.com/title/tt1441951/?ref_=nv_sr_srsg_6)
+    * [Skyfall](https://www.imdb.com/title/tt1074638/?ref_=tt_sims_tt_i_2)
     * [The Chef](https://www.imdb.com/title/tt1911553/?ref_=nv_sr_srsg_0)
     * [The Impossible](https://www.imdb.com/title/tt1649419/)
     * [Total Recall](https://www.imdb.com/title/tt1386703/?ref_=nm_flmg_act_48)
@@ -270,6 +280,7 @@
     * [The Hundred-Foot Journey](https://www.imdb.com/title/tt2980648/)
 * 2015
     * [Man Up](https://www.imdb.com/title/tt3064298/?ref_=nm_flmg_act_34)
+    * [Spectre](https://www.imdb.com/title/tt2379713/?ref_=tt_sims_tt_i_1)
     * [The Big Short](https://www.imdb.com/title/tt1596363/?ref_=fn_al_tt_1)
     * [The Martian](https://www.imdb.com/title/tt3659388/?ref_=fn_al_tt_1)
     * [The Second Best Exotic Marigold Hotel](https://www.imdb.com/title/tt2555736/?ref_=tt_sims_tt_t_1)
@@ -277,9 +288,11 @@
     * [Hell or High Water](https://www.imdb.com/title/tt2582782/?ref_=nv_sr_srsg_0)
     * [Jason Bourne](https://www.imdb.com/title/tt4196776/?ref_=nm_flmg_act_9)
     * [London Has Fallen](https://www.imdb.com/title/tt3300542/?ref_=tt_sims_tt_i_1)
+    * [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528/?ref_=nv_sr_srsg_0)
 * 2017
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
     * [All Nighter](https://www.imdb.com/title/tt4662420/)
+    * [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nm_flmg_act_7)
 * 2018
     * [A Quiet Place](https://www.imdb.com/title/tt6644200/?ref_=nm_flmg_act_9)
     * [An Interview with God](https://www.imdb.com/title/tt5779372/?ref_=nm_flmg_act_17)
@@ -293,6 +306,7 @@
     * [21 Bridges](https://www.imdb.com/title/tt8688634/?ref_=nm_flmg_act_4)
     * [Ad Astra](https://www.imdb.com/title/tt2935510/?ref_=nv_sr_srsg_6)
     * [Angel Has Fallen](https://www.imdb.com/title/tt6189022/?ref_=tt_sims_tt_i_2)
+    * [Knives Out](https://www.imdb.com/title/tt8946378/?ref_=nm_flmg_act_5)
     * [Lost in paris](https://www.imdb.com/title/tt10956304/?ref_=nv_sr_srsg_3)
     * [The Coldest Game](https://www.imdb.com/title/tt6445414/?ref_=nm_flmg_act_5)
 
@@ -301,5 +315,6 @@
     * [The Queen's Gambit](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0)
 * 2021
     * [A Quiet Place Part II](https://www.imdb.com/title/tt8332922/?ref_=nm_flmg_act_6)
+    * [No Time To Die](https://www.imdb.com/title/tt2382320/?ref_=tt_sims_tt_i_4)
     * [The Colony](https://www.imdb.com/title/tt6506264/?ref_=nv_sr_srsg_7)
 * 2022
