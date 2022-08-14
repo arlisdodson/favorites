@@ -84,6 +84,7 @@
     * [In the Heat of the Night](https://www.imdb.com/title/tt0061811/?ref_=fn_al_tt_2)
     * [To Sir, with Love](https://www.imdb.com/title/tt0062376/?ref_=fn_al_tt_6)
 * 1968
+    * [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)
     * [Bullitt](https://www.imdb.com/title/tt0062765/?ref_=nv_sr_srsg_0)
 * 1969
     * [Midnight Cowboy](https://www.imdb.com/title/tt0064665/?ref_=nv_sr_srsg_0)
