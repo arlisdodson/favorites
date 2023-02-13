@@ -230,6 +230,7 @@
     * [Sky High](https://www.imdb.com/title/tt0405325/)
 * 2006
     * [Casino Royale](https://www.imdb.com/title/tt0381061/?ref_=nv_sr_srsg_0)
+    * [Local Color](https://www.imdb.com/title/tt0472126/?ref_=fn_al_tt_1)
 * 2007
     * [National Treasure: Book of Secrets](https://www.imdb.com/title/tt0465234/?ref_=nv_sr_srsg_7)
     * [Sunshine](https://www.imdb.com/title/tt0448134/?ref_=nv_sr_srsg_0)
@@ -272,6 +273,7 @@
     * [Mystery Road](https://www.imdb.com/title/tt2236054/?ref_=fn_al_tt_2)
     * [Odd Thomas](https://www.imdb.com/title/tt1767354/?ref_=fn_al_tt_1)
     * [Olympus Has Fallen](https://www.imdb.com/title/tt2302755/?ref_=nv_sr_srsg_0)
+    * [Ragnarok](https://www.imdb.com/title/tt2363213/)
 * 2014
     * [Chef](https://www.imdb.com/title/tt2883512/?ref_=nv_sr_srsg_0)
     * [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/)
@@ -325,3 +327,4 @@
 * 2022
     * [Arkansas](https://www.imdb.com/title/tt9139586/?ref_=nv_sr_srsg_0)
     * [Nope](https://www.imdb.com/title/tt10954984/)
+    * [Thor: Love and Thunder](https://www.imdb.com/title/tt10648342/?ref_=fn_al_tt_1)
