@@ -228,6 +228,7 @@
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2005
     * [Sky High](https://www.imdb.com/title/tt0405325/)
+    * [The World's Fastest Indian](https://www.imdb.com/title/tt0412080/)
 * 2006
     * [Casino Royale](https://www.imdb.com/title/tt0381061/?ref_=nv_sr_srsg_0)
     * [Local Color](https://www.imdb.com/title/tt0472126/?ref_=fn_al_tt_1)
