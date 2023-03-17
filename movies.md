@@ -299,8 +299,9 @@
 * 2017
     * [Alien: Covenant](https://www.imdb.com/title/tt2316204/?ref_=tt_sims_tt_i_1)
     * [All Nighter](https://www.imdb.com/title/tt4662420/)
-    * [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nm_flmg_act_7)
     * [The Death of Stalin](https://www.imdb.com/title/tt4686844/?ref_=nm_knf_i4)
+    * [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nm_flmg_act_7)
+    * [Lost & Found](https://www.imdb.com/title/tt7085054/)
 * 2018
     * [A Quiet Place](https://www.imdb.com/title/tt6644200/?ref_=nm_flmg_act_9)
     * [An Interview with God](https://www.imdb.com/title/tt5779372/?ref_=nm_flmg_act_17)
