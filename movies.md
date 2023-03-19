@@ -170,6 +170,7 @@
     * [What's Eating Gilbert Grape](https://www.imdb.com/title/tt0108550/)
 * 1994
     * [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0)
+    * [The Secret of Roan Inish](https://www.imdb.com/title/tt0111112/)
     * [Stargate](https://www.imdb.com/title/tt0111282/?ref_=nv_sr_srsg_0)
     * [Tom & Viv](https://www.imdb.com/title/tt0111454/?ref_=nm_flmg_act_123)
 * 1995
@@ -227,6 +228,7 @@
     * [The Chronicles of Riddick](https://www.imdb.com/title/tt0296572/?ref_=tt_sims_tt_i_1)
     * [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1)
 * 2005
+    * [Cinderella Man](https://www.imdb.com/title/tt0352248/?ref_=fn_al_tt_1)
     * [Sky High](https://www.imdb.com/title/tt0405325/)
     * [The World's Fastest Indian](https://www.imdb.com/title/tt0412080/)
 * 2006
