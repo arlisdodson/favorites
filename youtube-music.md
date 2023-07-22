@@ -12,4 +12,10 @@ I created this markdown page for my own benefit.
 * [Dennis Schutze](https://www.youtube.com/@dennisschuetzeband)
     * I stumbled across this channel while looking for classical music performed on a ukulele
     * [J.S. Bach: Minuet in G-Major for ukulele & guitar (BWV Anh. 116)](https://www.youtube.com/watch?v=POdxVKMVGSk)
+* [Josh Turner Guitar](https://www.youtube.com/channel/UC3Wj9aO8VS5ZuXrtWfJf81w)
+    * Found this channel when searching for performances of a tune by > Pure Prarie League
+    * This young man and his friends are amazing musicians and singers
+    * [Falling In and Out of Love/Amiee (Feat. Tanner Walter and Myles Pinder)](https://www.youtube.com/watch?v=eKqv-VMUcDA)
+    * [Frankie Valli](https://www.youtube.com/watch?v=P_Npd2FyyLI)
+    * [Suite: Judy Blue Eyes](https://www.youtube.com/watch?v=cUhdL_hUi3w)
 
