@@ -25,6 +25,13 @@ I created this markdown page for my own benefit.
     * [Come Again - John Dowland / Ensemble Phoenix Munich with Emma Kirkby](https://www.youtube.com/watch?v=UjWYw-w9rKg)
     * [Hear, O Lord in rehearsal for the 2015 Radovljica Music Feastival](https://www.youtube.com/watch?v=jWklSFlpAmk)
     * [Innsbruck, ich muss dich lassen - Heinrich Isac](https://www.youtube.com/watch?v=4RV_DufKfzU)
+* [Duo Bensa-Cardinot](https://www.youtube.com/@DuoBensaCardinot)
+    * [Now, O now, I needs must part - (Download) Guitar duo Bensa-Cardinot](https://www.youtube.com/watch?v=TlP1qv04x6A)
+* [William Byrd Consort](https://www.youtube.com/@williambyrdconsort5246)
+    * [John Dowland | Come again! Sweet love doth no invite | William Byrd Consort](https://www.youtube.com/watch?v=pEeoTnA8brk)
+* [Gianluca Geremia](https://www.youtube.com/@gianluca-geremia)
+    * [J. Dowland: Come Again, Sweet Love - Joyce DiDonato, Gianluca Geremia](https://www.youtube.com/watch?v=43sAA4Ld21I)
+
 
 
 # Bands and Other Performers #
