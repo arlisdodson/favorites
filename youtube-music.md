@@ -21,6 +21,9 @@ I created this markdown page for my own benefit.
     * [Suite: Judy Blue Eyes](https://www.youtube.com/watch?v=cUhdL_hUi3w)
 * [John Michael Talbot](https://www.youtube.com/channel/UCkU6BlK4aYv1Mci1nrED4Bg)
     * [One Bread, One Body](https://www.youtube.com/watch?v=nNNOQm6WO54)
+* [Ensemble Phoenix Munich](https://www.youtube.com/@ensemblephoenixmunich2210)
+    * [Hear, O Lord in rehearsal for the 2015 Radovljica Music Feastival](https://www.youtube.com/watch?v=jWklSFlpAmk)
+
 
 # Bands and Other Performers #
 
