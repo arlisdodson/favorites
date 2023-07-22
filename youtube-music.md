@@ -19,8 +19,18 @@ I created this markdown page for my own benefit.
     * [Falling In and Out of Love/Amiee (Feat. Tanner Walter and Myles Pinder)](https://www.youtube.com/watch?v=eKqv-VMUcDA)
     * [Frankie Valli](https://www.youtube.com/watch?v=P_Npd2FyyLI)
     * [Suite: Judy Blue Eyes](https://www.youtube.com/watch?v=cUhdL_hUi3w)
+* [John Michael Talbot](https://www.youtube.com/channel/UCkU6BlK4aYv1Mci1nrED4Bg)
+    * [One Bread, One Body](https://www.youtube.com/watch?v=nNNOQm6WO54)
 
 # Bands and Other Performers #
 
 ## The Seekers ##
 * [The Seekers - I'll Never Find Another You (HQ Stereo, 1964/'68)](https://www.youtube.com/watch?v=wZf41UudAbI)
+
+## Taize ##
+I fell in love with Taize hymns while recovering from my massive stroke, the Summer of 2008.
+
+* [Taize Community](https://www.giamusic.com/bios/taize.cfm)
+    * Read about the brothers who started their work in the 1940's
+* [Taize - In resurrectione tua](https://www.youtube.com/watch?v=_47gKnCMVNQ)
+* [Taize - virtual choir: In resurrectione tua](https://www.youtube.com/watch?v=M-hybuhxJg8)
