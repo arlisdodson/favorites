@@ -22,8 +22,9 @@ I created this markdown page for my own benefit.
 * [John Michael Talbot](https://www.youtube.com/channel/UCkU6BlK4aYv1Mci1nrED4Bg)
     * [One Bread, One Body](https://www.youtube.com/watch?v=nNNOQm6WO54)
 * [Ensemble Phoenix Munich](https://www.youtube.com/@ensemblephoenixmunich2210)
-    * [Hear, O Lord in rehearsal for the 2015 Radovljica Music Feastival](https://www.youtube.com/watch?v=jWklSFlpAmk)
     * [Come Again - John Dowland / Ensemble Phoenix Munich with Emma Kirkby](https://www.youtube.com/watch?v=UjWYw-w9rKg)
+    * [Hear, O Lord in rehearsal for the 2015 Radovljica Music Feastival](https://www.youtube.com/watch?v=jWklSFlpAmk)
+    * [Innsbruck, ich muss dich lassen - Heinrich Isac](https://www.youtube.com/watch?v=4RV_DufKfzU)
 
 
 # Bands and Other Performers #
