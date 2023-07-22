@@ -36,3 +36,11 @@ I fell in love with Taize hymns while recovering from my massive stroke, the Sum
 * [Taize - virtual choir: In resurrectione tua](https://www.youtube.com/watch?v=M-hybuhxJg8)
 * [Nada Te Turbe (en casa)](https://www.youtube.com/watch?v=8noVAPXiQC8)
     * virtual choir
+
+## Charles Wesley ##
+
+* [And Can it be That I should Gain](https://www.youtube.com/watch?v=sQeIGbKqiw8)
+    * Songs of Priase boradcast Sun 21 Oct 2007
+* [AND CAN IT BE by Charlies Wesley | Hymn #23](https://www.youtube.com/watch?v=kHaFM1Jx088)
+    * channel: A Hymn for Today
+    * acoustic guitar; two voices
