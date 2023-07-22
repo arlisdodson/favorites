@@ -44,3 +44,6 @@ I fell in love with Taize hymns while recovering from my massive stroke, the Sum
 * [AND CAN IT BE by Charlies Wesley | Hymn #23](https://www.youtube.com/watch?v=kHaFM1Jx088)
     * channel: A Hymn for Today
     * acoustic guitar; two voices
+* [Lo He Comes With Clouds Descending: Lichfield Cathederal Choir](https://www.youtube.com/watch?v=jjn3fBTvBjY)
+* [Lo! he comes with clouds descending - John Rutter, John Scott, Cambridge Singers, COL Sinfonia Brass](https://www.youtube.com/watch?v=eBAG0TXu2AE)
+* [O For A Thousand Tongues To Sing](https://www.youtube.com/watch?v=4O9kw3cILpg)
