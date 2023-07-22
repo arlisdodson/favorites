@@ -34,3 +34,5 @@ I fell in love with Taize hymns while recovering from my massive stroke, the Sum
     * Read about the brothers who started their work in the 1940's
 * [Taize - In resurrectione tua](https://www.youtube.com/watch?v=_47gKnCMVNQ)
 * [Taize - virtual choir: In resurrectione tua](https://www.youtube.com/watch?v=M-hybuhxJg8)
+* [Nada Te Turbe (en casa)](https://www.youtube.com/watch?v=8noVAPXiQC8)
+    * virtual choir
