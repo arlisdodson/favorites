@@ -62,3 +62,6 @@ I fell in love with Taize hymns while recovering from my massive stroke, the Sum
 
 ## Barry Douglas ##
 * [Barry Douglas: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=P6H3jeut9jw)
+
+## Keith Jarrett ##
+* [Keith Jarrett - Over the Rainbow (Tokyo 1984)](https://www.youtube.com/watch?v=AyLQGDIrGcI&t=0s)
