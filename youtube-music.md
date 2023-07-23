@@ -59,3 +59,6 @@ I fell in love with Taize hymns while recovering from my massive stroke, the Sum
 * [Lo He Comes With Clouds Descending: Lichfield Cathederal Choir](https://www.youtube.com/watch?v=jjn3fBTvBjY)
 * [Lo! he comes with clouds descending - John Rutter, John Scott, Cambridge Singers, COL Sinfonia Brass](https://www.youtube.com/watch?v=eBAG0TXu2AE)
 * [O For A Thousand Tongues To Sing](https://www.youtube.com/watch?v=4O9kw3cILpg)
+
+## Barry Douglas ##
+* [Barry Douglas: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=P6H3jeut9jw)
