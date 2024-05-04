@@ -16,7 +16,9 @@ Otherwise, there is no intended ordering.
 
 | Episode | Title | Notes |
 |---------|-------|-------|
-| [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds.|
+| [131](https://se-radio.net/2009/04/episode-131-adrenaline-junkies-with-demarco-and-hruschka/) | Adrenaline Junkies with DeMarco and Hruschka | Recorded live during OOP 2009.  Very entertaining. |
+
+| [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds. Valuable comments provided the reader with "context".|
 | [188](https://se-radio.net/2012/09/episode-188-requirements-in-agile-projects/) | Requirements in Agile Projects | A delightful discussion. |
 
 # Other Sources #
@@ -28,5 +30,5 @@ https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/
 
 | Source | Link | Notes |
 |--------|------|-------|
-| unknown | N/A | In the late 1990's or the early 2000's I read a discussion with a Linux kernel developer.  He made the point that the code does not tell you why it was written.  One of his point was that the Linux kernel must be properly documented. |
+| unknown | N/A | In the late 1990's or the early 2000's I read a discussion with a Linux kernel developer.  He made asserted that the code does not tell you why it was written.  One of his points was that the Linux kernel must be properly documented. |
 | [THE HANSELMINUTES PODCAST](https://www.hanselminutes.com/) | [Hanselminutes Podcast 248 - Executable Specifications with Gojko Adzic, Jonas Bandi and Aslak Hellesoy](https://www.hanselman.com/blog/hanselminutes-podcast-248-executable-specifications-with-gojko-adzic-jonas-bandi-and-aslak-hellesoy) | A great discussion about software product behavior |
