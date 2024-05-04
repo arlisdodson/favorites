@@ -17,7 +17,6 @@ Otherwise, there is no intended ordering.
 | Episode | Title | Notes |
 |---------|-------|-------|
 | [131](https://se-radio.net/2009/04/episode-131-adrenaline-junkies-with-demarco-and-hruschka/) | Adrenaline Junkies with DeMarco and Hruschka | Recorded live during OOP 2009.  Very entertaining. |
-
 | [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds. Valuable comments provided the reader with "context".|
 | [188](https://se-radio.net/2012/09/episode-188-requirements-in-agile-projects/) | Requirements in Agile Projects | A delightful discussion. |
 
