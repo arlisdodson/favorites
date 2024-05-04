@@ -16,6 +16,7 @@ Otherwise, there is no intended ordering.
 
 | Episode | Title | Notes |
 |---------|-------|-------|
+| [40](https://se-radio.net/2006/12/episode-40-interview-werner-vogels/) | Interview Werner Vogels | Includes the Amazon discipline of preparing an internal press release for new projects. |
 | [131](https://se-radio.net/2009/04/episode-131-adrenaline-junkies-with-demarco-and-hruschka/) | Adrenaline Junkies with DeMarco and Hruschka | Recorded live during OOP 2009.  Very entertaining. |
 | [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds. Valuable comments provided the reader with "context".  CS students should spend more time reading other people's code.|
 | [167](https://se-radio.net/2010/09/episode-167-the-history-of-junit-and-the-future-of-testing-with-kent-beck/) | The History of JUnit and the Future of Testing with Kent Beck | TDD can also be applied to system development. |
