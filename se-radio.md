@@ -17,7 +17,7 @@ Otherwise, there is no intended ordering.
 | Episode | Title | Notes |
 |---------|-------|-------|
 | [131](https://se-radio.net/2009/04/episode-131-adrenaline-junkies-with-demarco-and-hruschka/) | Adrenaline Junkies with DeMarco and Hruschka | Recorded live during OOP 2009.  Very entertaining. |
-| [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds. Valuable comments provided the reader with "context".|
+| [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds. Valuable comments provided the reader with "context".  CS students should spend more time reading other people's code.|
 | [167](https://se-radio.net/2010/09/episode-167-the-history-of-junit-and-the-future-of-testing-with-kent-beck/) | The History of JUnit and the Future of Testing with Kent Beck | TDD can also be applied to system development. |
 | [188](https://se-radio.net/2012/09/episode-188-requirements-in-agile-projects/) | Requirements in Agile Projects | A delightful discussion. |
 | [315](https://se-radio.net/2018/01/se-radio-episode-315-jeroen-janssens-on-tools-for-data-science/) | Jeroen Janssens on Tools for Data Science | |
