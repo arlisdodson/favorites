@@ -4,8 +4,6 @@ In 2008, after suffering a "youn man's" stroke, I discovered [Software Engineeri
 
 At that time, as a result of suffering significant brain damage, I found it very difficult to read technical papers and books.
 
-> An aside.  I had lost many nouns.  The words I had to re-learn included "fork", "spoon", and "knife" and the names of the human limbs.  When I resumed my work as a Linux/C programmer, I had some frustrating moments attempting to *remember* those silly two-character-name command line tools.
-
 After many years of recovery I once again enjoy reading; I still enjoy listening to Software Engineering podcasts.
 
 
