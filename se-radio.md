@@ -28,4 +28,5 @@ https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/
 
 | Source | Link | Notes |
 |--------|------|-------|
+| unknown | N/A | In the late 1990's or the early 2000's I read a discussion with a Linux kernel developer.  He made the point that the code does not tell you why it was written.  One of his point was that the Linux kernel must be properly documented. |
 | [THE HANSELMINUTES PODCAST](https://www.hanselminutes.com/) | [Hanselminutes Podcast 248 - Executable Specifications with Gojko Adzic, Jonas Bandi and Aslak Hellesoy](https://www.hanselman.com/blog/hanselminutes-podcast-248-executable-specifications-with-gojko-adzic-jonas-bandi-and-aslak-hellesoy) | A great discussion about software product behavior |
