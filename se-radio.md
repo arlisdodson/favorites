@@ -20,6 +20,7 @@ Otherwise, there is no intended ordering.
 | [148](https://se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/) | Software Archaeology with Dave Thomas | After many years, this discussion continues to resonate with me.  Be advised the audio includes some annoying sounds. Valuable comments provided the reader with "context".|
 | [167](https://se-radio.net/2010/09/episode-167-the-history-of-junit-and-the-future-of-testing-with-kent-beck/) | The History of JUnit and the Future of Testing with Kent Beck | TDD can also be applied to system development. |
 | [188](https://se-radio.net/2012/09/episode-188-requirements-in-agile-projects/) | Requirements in Agile Projects | A delightful discussion. |
+| [501](https://se-radio.net/2022/03/episode-501-bob-ducharme-on-creating-technical-documentation-for-software-projects/) | Bob Ducharme on Creating Technical Documentation for Software Projects | |
 | [609](https://se-radio.net/2024/03/se-radio-609-hyrum-wright-on-software-engineering-at-google/) | Hyrum Wright on Software Engineering at Google | Designing tests is important. |
 
 # Other Sources #
