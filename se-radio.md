@@ -8,9 +8,6 @@ After many years of recovery I once again enjoy reading; I still enjoy listening
 
 
 # se-radio.net GOAT Candidates #
-Most recent podcasts are listed first.
-
-Otherwise, there is no intended ordering.
 
 | Episode | Title | Notes |
 |---------|-------|-------|
