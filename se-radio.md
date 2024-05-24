@@ -20,6 +20,7 @@ After many years of recovery I once again enjoy reading; I still enjoy listening
 | [501](https://se-radio.net/2022/03/episode-501-bob-ducharme-on-creating-technical-documentation-for-software-projects/) | Bob Ducharme on Creating Technical Documentation for Software Projects | |
 | [604](https://se-radio.net/2024/02/se-radio-604-karl-wiegers-and-candase-hokanson-on-software-requirements-essentials/) | Karl Wiegers and Candase Hokanson on Software Requirements Essentials | The customer is not always right, but the customer may have a point. |
 | [609](https://se-radio.net/2024/03/se-radio-609-hyrum-wright-on-software-engineering-at-google/) | Hyrum Wright on Software Engineering at Google | Designing tests is important. |
+| [617](https://se-radio.net/2024/05/se-radio-617-frances-buontempo-on-modern-c/ | |
 
 # Other Sources #
 The best discussion about 
