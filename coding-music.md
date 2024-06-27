@@ -19,6 +19,7 @@
 * 1980
     * [Rush Permanent Waves](https://en.wikipedia.org/wiki/Permanent_Waves)
 * 1981
+    * [Rush Moving Pictures](https://en.wikipedia.org/wiki/Moving_Pictures_(Rush_album))
 * 1982
     * [Rush Signals](https://en.wikipedia.org/wiki/Signals_(Rush_album))
 * 1983
