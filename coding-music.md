@@ -20,6 +20,7 @@
 * 1980
 * 1981
 * 1982
+    * [Rush Signals](https://en.wikipedia.org/wiki/Signals_(Rush_album))
 * 1983
 * 1984
 * 1985
