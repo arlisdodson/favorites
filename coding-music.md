@@ -20,6 +20,7 @@
 
 # The 1980's #
 * 1980
+    * [Rush Permanent Waves](https://en.wikipedia.org/wiki/Permanent_Waves)
 * 1981
 * 1982
     * [Rush Signals](https://en.wikipedia.org/wiki/Signals_(Rush_album))
