@@ -13,6 +13,7 @@
 * 1975
     * [Rush Fly by Night](https://en.wikipedia.org/wiki/Fly_by_Night_(album))
 * 1976
+    * [Rush 2112](https://en.wikipedia.org/wiki/2112_(album))
 * 1977
 * 1978
 * 1979
