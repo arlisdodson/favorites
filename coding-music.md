@@ -1,8 +1,5 @@
 # Favorite Music While Developing Software #
 
-# The 1940's #
-# The 1950's #
-# The 1960's #
 # The 1970's #
 * 1970
 * 1971
@@ -27,19 +24,9 @@
 * 1983
 * 1984
 * 1985
+    * [Rush Power Windows](https://en.wikipedia.org/wiki/Power_Windows_(album))
 * 1986
 * 1987
 * 1988
 * 1989
 
-# The 1990's #
-* 1990
-* 1991
-* 1992
-* 1993
-* 1994
-* 1995
-* 1996
-* 1997
-* 1998
-* 1999
