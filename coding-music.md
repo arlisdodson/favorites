@@ -31,4 +31,17 @@
 * 1988
 * 1989
     * [Rush Presto](https://en.wikipedia.org/wiki/Presto_(album))
-
+# The 1990's #
+# The 2000's #
+* 2000
+* 2001
+* 2002
+    * [Rush Vapor Trails](https://en.wikipedia.org/wiki/Vapor_Trails)
+        * remixed
+* 2003
+* 2004
+* 2005
+* 2006
+* 2007
+* 2008
+* 2009
