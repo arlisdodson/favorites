@@ -12,6 +12,7 @@
 * 1976
     * [Rush 2112](https://en.wikipedia.org/wiki/2112_(album))
 * 1977
+    * [Rush A Farewell to Kings](https://en.wikipedia.org/wiki/A_Farewell_to_Kings)
 * 1978
 * 1979
 
