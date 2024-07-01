@@ -33,6 +33,17 @@
 * 1989
     * [Rush Presto](https://en.wikipedia.org/wiki/Presto_(album))
 # The 1990's #
+* 1990
+* 1991
+* 1992
+* 1993
+    * [Ruse Counterparts](https://en.wikipedia.org/wiki/Counterparts_(Rush_album))
+* 1994
+* 1995
+* 1996
+* 1997
+* 1998
+* 1999
 # The 2000's #
 * 2000
 * 2001
