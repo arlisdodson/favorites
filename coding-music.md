@@ -45,6 +45,7 @@
 * 1997
 * 1998
 * 1999
+    * [Lyle Lovett Live in Texas](https://en.wikipedia.org/wiki/Live_in_Texas_(Lyle_Lovett_album))
 # The 2000's #
 * 2000
 * 2001
