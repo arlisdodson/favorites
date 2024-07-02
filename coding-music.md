@@ -4,6 +4,7 @@
 * 1970
 * 1971
     * [The Allman Brothers Band At Fillmore East](https://en.wikipedia.org/wiki/At_Fillmore_East)
+    * [Yes Fragile](https://en.wikipedia.org/wiki/Fragile_(Yes_album))
 * 1972
 * 1973
 * 1974
